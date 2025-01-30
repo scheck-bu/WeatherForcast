@@ -12,7 +12,7 @@ import datetime
 
 
 def get_api_key():
-    return "9e1680397f56612e00790b474107c13b"
+    return "xxxxxxxxxxxxxxxxxxxxxxx"
 
 
 # Weather Station Class
